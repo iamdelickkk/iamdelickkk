@@ -1,4 +1,4 @@
-### Привет! Я flydelick.<br>
-Моё настоящее имя Ярослав.<br>
-15 летний челик который делает жабблер, занимаюсь веб разработкой, шарю в HTML, CSS, PHP, JavaScript, JQuery, Python (чут-чут).<br>
-<a href="https://t.me/iamflydelick">Telegram</a> ||| <a href="https://openvk.su/id2268">OpenVK</a> ||| <a href="https://zhabbler.ru/profile/flydelick">Жабблер</a>
+### Hello, I'm flydelick.<br>
+My real name is Yaroslav.<br>
+15 y/o, creator and developer of <a href="https://github.com/zhabbler/zhabbler">Zhabbler</a>. I know PHP, JS, and Python (a little bit).<br>
+<a href="https://t.me/iamflydelick">Telegram</a> ||| <a href="https://openvk.su/id2268">OpenVK</a> ||| <a href="https://flydelick.zhabbler.ru/">Zhabbler</a>
